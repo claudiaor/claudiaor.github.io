@@ -1,6 +1,6 @@
 ## About me
 
-Hello there! I am Claudia Orellana-Rodriguez, I am the CSO and Lead Research Engineer at recsyslabs (www.recsyslabs.com). 
+Hello there! I am Claudia Orellana-Rodriguez, I am the CSO and Lead Research Engineer at recsyslabs (www.recsyslabs.com), where we are building the next generation of recommender systems.
 
 I was born and raised in San Miguel, El Salvador where I lived until I moved to San Salvador to start my Engineering degree. I am a proud UES alumna! 
 
