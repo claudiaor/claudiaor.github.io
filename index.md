@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/claudiaor/claudiaor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there! I am Claudia Orellana-Rodriguez, I am the CSO and Lead Research Engineer at recsyslabs (www.recsyslabs.com). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was born and raised in San Miguel, El Salvador where I lived until I moved to San Salvador to start my Engineering degree. I am a proud UES alumna! 
 
 ### Markdown
 
